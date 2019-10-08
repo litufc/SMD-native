@@ -51,9 +51,9 @@ const Toolbar = ({ title, textColor, background, iconColor, iconLeft, iconRight,
             </Left>
             <Body style={styles.containerTitle}>
                 {onPressTitle ?
-                    <TouchableOpacity onPress={onPressTitle} style={styles.containerTitle}>
+                    <TouchableOpacity style={styles.containerTitle}>
                         <Title style={styles.titleHeader}>{title}</Title>
-                        <Icon type="FontAwesome5" name="sort-down" style={styles.iconTitle}/>
+                        {/* <Icon type="FontAwesome5" name="sort-down" style={styles.iconTitle}/> */}
                     </TouchableOpacity>
                 :
                     <Title style={styles.titleHeader}>{title}</Title>

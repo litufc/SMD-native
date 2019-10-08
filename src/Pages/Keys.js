@@ -63,7 +63,7 @@ export default class Keys extends Component {
                     iconRight={true}
                     iconLeft={false}
                     onPressRight={() => this.props.navigation.navigate('Search', {searchFor: 'key'})}
-                    onPressTitle={() => this.props.navigation.navigate('Weeks')}
+                    // onPressTitle={() => this.props.navigation.navigate('Weeks')}
                 />
                 
                 <FixedTabs

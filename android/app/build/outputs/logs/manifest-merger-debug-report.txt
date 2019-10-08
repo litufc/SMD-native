@@ -5,6 +5,7 @@ INJECTED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/Andr
 INJECTED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
 INJECTED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GitHub/SMD-native/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GitHub/SMD-native/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /home/mateus/Documents/GitHub/SMD-native/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.2] /home/mateus/.gradle/caches/transforms-2/files-2.1/d8dae3db515f496c7123cec6d25dee04/AndroidManifest.xml:2:1-13:12
@@ -135,6 +136,8 @@ uses-sdk
 INJECTED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/AndroidManifest.xml
 INJECTED from /home/mateus/Documents/GitHub/SMD-native/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GitHub/SMD-native/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /home/mateus/Documents/GitHub/SMD-native/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GitHub/SMD-native/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /home/mateus/Documents/GitHub/SMD-native/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /home/mateus/Documents/GitHub/SMD-native/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41

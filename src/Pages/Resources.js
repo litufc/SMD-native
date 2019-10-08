@@ -34,7 +34,7 @@ export default class Resoucers extends Component {
                     iconRight={true}
                     iconLeft={false}
                     onPressRight={() => this.props.navigation.navigate('Search', {searchFor: 'resource'})}
-                    onPressTitle={() => this.props.navigation.navigate('Weeks')}
+                    // onPressTitle={() => this.props.navigation.navigate('Weeks')}
                 />
                 
                 <Content style={{backgroundColor: AppStyles.colour.background}}>

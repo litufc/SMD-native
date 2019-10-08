@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { AsyncStorage } from 'react-native';
+import AsyncStorage from '@react-native-community/async-storage';
 import { Container, Spinner } from 'native-base';
 
 import AppStyles from '../global';
@@ -39,7 +39,7 @@ export default class Home extends Component {
                             iconRight={true}
                             iconLeft={false}
                             onPressRight={() => this.props.navigation.navigate('Search', {searchFor: 'location'})}
-                            onPressTitle={() => this.props.navigation.navigate('Weeks')}
+                            // onPressTitle={() => this.props.navigation.navigate('Weeks')}
                         /> 
                         <ScrollableTabs/>
                         <Tabbar

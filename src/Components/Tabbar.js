@@ -1,5 +1,6 @@
 import React from 'react';
-import { StyleSheet, AsyncStorage } from 'react-native';
+import { StyleSheet } from 'react-native';
+import AsyncStorage from '@react-native-community/async-storage';
 import { Container, Footer, FooterTab, Button, Text, Icon, StyleProvider } from 'native-base';
 import getTheme from '../../native-base-theme/components';
 import material from '../../native-base-theme/variables/material';
